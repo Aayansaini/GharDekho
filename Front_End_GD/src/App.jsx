@@ -1,10 +1,10 @@
 import "./App.css";
-import "./components/Contact";
+import Header from "./components/Header.jsx";
 
 function App() {
   return (
     <>
-      <Contact></Contact>
+      <Header />
     </>
   );
 }
